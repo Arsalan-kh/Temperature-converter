@@ -1,0 +1,19 @@
+body {
+    background-image: Url("https://images.unsplash.com/photo-1474573861993-28435e3937e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNvbGR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.convert {
+    margin: 0 auto;
+}
+
+option {
+    width: 50px;
+}
+
+.dropdown-menu {
+    border: none !important;
+    background: transparent !important;
+}
